@@ -1,6 +1,11 @@
 package com.codecool.tddsaboteur;
 
 /**
+ * What is an anagram?
+ * https://en.wikipedia.org/wiki/Anagram
+ *
+ * Examples:
+ *
  * god == dog
  * funeral == real fun
  * William Shakespeare == I am a weakish speller
